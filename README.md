@@ -4,13 +4,13 @@
 ### Universidad de La Sabana
 #### 2024 - I
 
-# Nombres
-## Krish Purmessur y Alejandro Parra
+## Nombres
+### Krish Purmessur y Alejandro Parra
 
-# Links despliegue
-## Back: https://back-db.vercel.app/api
-## Front
+## Links despliegue
+### Back: https://back-db.vercel.app/api
+### Front: https://ventas-unisabana.vercel.app/login
 
-# Links repos
-## Back: https://github.com/Kapum357/Backend_ProyectoDdAW
-## Front: https://github.com/parra284/Frontend_ProyectoDdAW
+## Links repos
+### Back: https://github.com/Kapum357/Backend_ProyectoDdAW
+### Front: https://github.com/parra284/Frontend_ProyectoDdAW
