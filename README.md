@@ -9,7 +9,7 @@
 
 ## Links despliegue
 ### Back: https://back-db.vercel.app/api
-### Front: https://ventas-unisabana.vercel.app/login
+### Front: https://ventas-unisabana.vercel.app
 
 ## Links repos
 ### Back: https://github.com/Kapum357/Backend_ProyectoDdAW
